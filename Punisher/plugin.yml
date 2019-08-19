@@ -1,0 +1,17 @@
+name: PonyPunisher
+main: ponytools.report.Report
+version: 0.1
+description: PonyReport for staff members to read reports.
+commands:
+ punish:
+  description: Report GUI.
+ punishments:
+  description: Report players.
+  
+permissions:
+    ponyreports.reports:
+        description: Report GUI.
+        default: op
+    ponyreports.report:
+        description: Report players.
+        default: op

@@ -1,0 +1,10 @@
+Messages:
+ prefix: '&cPonyReport &8> '
+ no_permission: '&cYou have no permission to execute this command!'
+ must_be_player: '&cOnly players can execute this command!'
+ player_null: '&cThe player &4%target% &ceither does not exist, or is offline.'
+ report_usage: '&cUsage: /report <player> <reason>'
+ cleared_player_report: '&aYou cleared &2%target%s &areports!'
+ reported_player: '&aYou have reported %target% for %reason%'
+ cooldown_time: 0
+ remove_reports_on_start: true
