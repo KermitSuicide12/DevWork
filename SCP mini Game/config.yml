@@ -1,0 +1,25 @@
+#
+#Mini SCP game config
+#
+# fix worlds
+#
+Plugin:
+# Prefix for plugin messages
+  Prefix: "&8[&7PonyTools&8] "
+
+Locations:
+  Lobby:
+    X: 1
+    Y: 1
+    Z: 1
+    World: "world"
+  SCP:
+    X: 1
+    Y: 1
+    Z: 1
+    World: "world"
+  MTF:
+    X: 1
+    Y: 1
+    Z: 1
+    World: "world"

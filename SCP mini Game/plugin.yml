@@ -1,0 +1,10 @@
+name: SCPTest
+main: Test.SCP.Game
+version: 1.0
+description: PonyReport for staff members to read reports.
+commands:
+ scp:
+  description: Report GUI.
+  
+permissions:
+  
